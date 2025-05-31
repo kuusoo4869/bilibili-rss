@@ -1,4 +1,4 @@
-# bilibili-rss
+# bilibili-rss【不要使用，备份用】
 临时解决B站 rsshub 404的问题
 
 自行安装python和导入的库
